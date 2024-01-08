@@ -1,11 +1,4 @@
 
-# JSON-to-SQL Data transfer Program
-
- Description
- 
-This C# program facilitates the extraction of information from JSON files and transfers it into a SQL Server database. It offers a seamless method to parse JSON data and store it in a SQL database efficiently.
-
-### Features
 
 # JSON-to-SQL Data transfer Program
 
