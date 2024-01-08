@@ -30,7 +30,9 @@ SQL Server instance accessible.
 Modify the connection string in app.config or web.config to match your SQL Server instance
 
 2. **JSON Source:**
+
 Update the path or URL of the JSON file in the code if needed.
+
 ## Usage
 1. Run the executable file generated after building the solution.
 2. Follow the on-screen instructions to initiate the JSON data extraction and SQL Server insertion process.
